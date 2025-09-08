@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-### Name: Ashwin Akash M
-### Reference Number: 212223230024
+### Name:gokulan R
+### Reference Number: 212224230076
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
